@@ -1,0 +1,12 @@
+{
+    "body": "{\"content\":\"new worlUPDATEDd\",\"attachment\":\"new.jpg\"}",
+    "pathParameters": {
+      "id": "daf33d10-4405-11e9-8ee6-1d188da72578"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
+  
